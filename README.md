@@ -1,7 +1,7 @@
 <div align = center>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+James+Michael" alt="Greeting" />
 
-My name is James Michael C. Mejares [or you can call me Kael], a 3rd year student from Polytechnic University of the Philippines - Taguig Campus.  I am a huge tokusatsu fan [I like watching Kamen Rider, Super Sentai & Ultraman ]
+My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT student from Polytechnic University of the Philippines - Taguig Campus.  I am a huge tokusatsu fan [I like watching Kamen Rider, Super Sentai & Ultraman ]
 
 </div>
 
@@ -17,7 +17,7 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year studen
 
 ---
 
-## 📄 Projects
+### 📄 Projects
 
  [devhivespace](https://github.com/PUP-BSIT/project-devhive) - A **cross-platform social-media web application**, visit the site by clicking [here](https://devhivespace.com/)
 

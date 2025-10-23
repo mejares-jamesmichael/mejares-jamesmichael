@@ -35,10 +35,6 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://komarev.com/ghpvc/?username=mejares-jamesmichael&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" /> |
 
-### 🎯 Let's Connect!  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaelv.mejares) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaelvxd) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamesmichaelmejares@gmail.com) 
-
 ---
 
 <div align="center" style="margin-top: 40px;">

@@ -29,11 +29,9 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Activity Graph
 
-| <img src="https://github-readme-stats.vercel.app/api?username=mejares-jamesmichael&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejares-jamesmichael&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=ffffff" alt="Top Languages" /> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://komarev.com/ghpvc/?username=mejares-jamesmichael&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" /> |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mejares-jamesmichael&theme=github-compact&hide_border=true&bg_color=00000000&color=38BDF8&line=38BDF8&point=38BDF8" alt="GitHub Activity Graph" />
 
 ---
 

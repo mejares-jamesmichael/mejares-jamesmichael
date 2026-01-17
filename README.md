@@ -19,7 +19,7 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 
 ### 📄 Projects
 
-[iBudget](https://github.com/PUP-BSIT/project-appvengers) - An AI-powered smart finance budgeting app, visit the app by clicking [here](i-budget.site)
+[iBudget](https://github.com/PUP-BSIT/project-appvengers) - An AI-powered smart finance budgeting app, visit the app by clicking [here](https://i-budget.site/)
 
 [PawSight](https://github.com/mejares-jamesmichael/project-pawsight) - A helpful android utility app built with flutter designed for pet owners, accompanied with smart-AI
 

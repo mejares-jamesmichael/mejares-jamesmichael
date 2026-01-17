@@ -29,8 +29,6 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 
 [OpenCV/Mediapipe Python](https://github.com/mejares-jamesmichael/opencv-mediapipe-project) - this is just a silly side-project i have that showcases real-time gesture recognition using webcam
 
- [Retro BI-ETL Dashboard](https://github.com/mejares-jamesmichael/BI_PROJECT) - a cool retro themed dashboard that demonstrates ETL process.
-
  [PDMHS Student Medical Record System](https://github.com/DEVHIVE-PROJECT-S/devhive-infoman)  - a **Student Medical Record System web application for PDMHS**, visit the site by clicking [here](https://devhivepupt.great-site.net/)
 
 ---

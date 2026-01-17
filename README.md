@@ -7,21 +7,27 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 
 ---
 
-### 💻 About Me 
+### 💻 About Me
+
 🎯 Passionate about **Linux, Cybersecurity, Programming, and useful technology tools**  
 🌱 Currently learning **Linux, App/Web Developing, Cybersecurity**  
 💡 Always exploring new technologies and cool stuff  
  ⚡ Fun fact: **I really like my command line interfaces!**  
 📫 Reach me at: **[jamesmichaelmejares@gmail.com](mailto:jamesmichaelmejares@gmail.com)**  
 
-
 ---
 
 ### 📄 Projects
 
+[iBudget](https://github.com/PUP-BSIT/project-appvengers) - An AI-powered smart finance budgeting app, visit the app by clicking [here](i-budget.site)
+
+[PawSight](https://github.com/mejares-jamesmichael/project-pawsight) - A helpful android utility app built with flutter designed for pet owners, accompanied with smart-AI
+
  [devhivespace](https://github.com/PUP-BSIT/project-devhive) - A **cross-platform social-media web application**, visit the site by clicking [here](https://devhivespace.com/)
 
  [Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI) - a PowerShell tool that helps clean unnecessary files and optimize device storage.
+
+[OpenCV/Mediapipe Python](https://github.com/mejares-jamesmichael/opencv-mediapipe-project) - this is just a silly side-project i have that showcases real-time gesture recognition using webcam
 
  [Retro BI-ETL Dashboard](https://github.com/mejares-jamesmichael/BI_PROJECT) - a cool retro themed dashboard that demonstrates ETL process.
 

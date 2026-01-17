@@ -10,7 +10,7 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 ### 💻 About Me
 
 🎯 Passionate about **Linux, Cybersecurity, Programming, and useful technology tools**  
-🌱 Currently learning **Linux, App/Web Developing, Cybersecurity**  
+🌱 Currently learning **Linux, App/Web Developing, AI-automations and DevOps**  
 💡 Always exploring new technologies and cool stuff  
  ⚡ Fun fact: **I really like my command line interfaces!**  
 📫 Reach me at: **[jamesmichaelmejares@gmail.com](mailto:jamesmichaelmejares@gmail.com)**  

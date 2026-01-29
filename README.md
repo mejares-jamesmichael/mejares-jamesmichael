@@ -13,7 +13,9 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 🌱 Currently learning **Linux, App/Web Developing, AI-automations and DevOps**  
 💡 Always exploring new technologies and cool stuff  
  ⚡ Fun fact: **I really like my command line interfaces!**  
-📫 Reach me at: **[jamesmichaelmejares@gmail.com](mailto:jamesmichaelmejares@gmail.com)**  
+📫 Reach me at: **[jamesmichaelmejares@gmail.com](mailto:jamesmichaelmejares@gmail.com)**
+🔗 Check my linktree by clicking **[here](https://linktr.ee/kaelvxd)**
+🌐 Visit my web space by clicking **[here](https://kaelvxdev.space/)**
 
 ---
 

@@ -13,6 +13,7 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 🌱 Currently learning **Linux, App/Web Developing, AI-automations and DevOps**  
 💡 Always exploring new technologies and cool stuff  
  ⚡ Fun fact: **I really like my command line interfaces!**  
+ 🏢 I worked as an Software Developer Intern at Arkray | XOO - A Japanese medical device and healthcare technology company
 📫 Reach me at: **[jamesmichaelmejares@gmail.com](mailto:jamesmichaelmejares@gmail.com)**                                                       
 🔗 Check my linktree by clicking **[here](https://linktr.ee/kaelvxd)**                                                  
 🌐 Visit my web space by clicking **[here](https://kaelvxdev.space/)**
@@ -20,6 +21,8 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 ---
 
 ### 📄 Projects
+
+[ServeTrack](https://github.com/PUPT-Quantum-Leap/capstone-nlcom-volunteer-management-system) - A capstone custom built system specifically for the NLCOM Organization
 
 [iBudget](https://github.com/PUP-BSIT/project-appvengers) - An AI-powered smart finance budgeting app, visit the app by clicking [here](https://i-budget.site/)
 

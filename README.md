@@ -3,7 +3,9 @@
 
 <div>
   <img src="assets\gotchard-gatchanko.gif" alt="Kamen Raido Gotcha" width="250" />
-  My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT student from Polytechnic University of the Philippines - Taguig Campus. I am a huge tokusatsu fan, I like watching Kamen Rider, Super Sentai & Ultraman series
+
+My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT student from Polytechnic University of the Philippines - Taguig Campus. I am a huge tokusatsu fan, I like watching Kamen Rider, Super Sentai & Ultraman series
+
 </div>
 
 ### 🛠️ Developer Profile

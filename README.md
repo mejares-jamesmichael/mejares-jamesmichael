@@ -17,7 +17,7 @@
 │                                                              │
 │  $ cat interests.txt                                         │
 │  🦖 Tokusatsu: Kamen Rider · Super Sentai · Ultraman         │
-│  ⚡ Terminal customization & dotfiles                        │
+│   ⚡ Terminal customization & dotfiles                        │
 │  $ ./gotchard-time                                           │
 │  "Sā, koko kara ga hairaito da!" 🪶                          │
 └──────────────────────────────────────────────────────────────┘

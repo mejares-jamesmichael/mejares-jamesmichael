@@ -1,14 +1,31 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+James+Michael" alt="Greeting" />
 
-<div>
-  <img src="assets/gotchard-gatchanko.gif" alt="Kamen Raido Gotcha" width="250" />
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│  ● ● ●   kael@linux: ~/profile — 80×24                       │
+├──────────────────────────────────────────────────────────────┤
+│  $ neofetch --profile                                        │
+│                                                              │
+│       ▀███▄        kael@linux                                │
+│       ██████       ──────────                                │
+│       ███████      OS: KaelOS x86_64                         │
+│        █████       Host: PUP-Taguig                          │
+│      ▄▀████▀▄      Role: 3rd Year IT Student                 │
+│    ▄▀▀▀████▀▀▀▄    Dev: XOO | Arkray                         │
+│                    Focus: Linux · CyberSec · DevOps · AI     │
+│                    Shell: bash 5.2                           │
+│                                                              │
+│  $ cat interests.txt                                         │
+│  🦖 Tokusatsu: Kamen Rider · Super Sentai · Ultraman          │
+│  ⚡ Terminal customization & dotfiles                         │
+│  $ ./gotchard-time                                           │
+│  "Sā, koko kara ga hairaito da!" 🪶                           │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
-My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT student from Polytechnic University of the Philippines - Taguig Campus. I am a huge tokusatsu fan, I like watching Kamen Rider, Super Sentai & Ultraman series
+---
 
-</div>
-
-### 🛠️ Developer Profile
+### <font color="#38BDF8">🛠️ Developer Profile</font>
 
 | 💻 About Me | 📄 Featured Projects |
 | :--- | :--- |
@@ -16,13 +33,13 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 
 ---
 
-<!-- ### 📊 GitHub Activity Graph -->
-<!---->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mejares-jamesmichael&theme=github-compact&hide_border=true&bg_color=00000000&color=38BDF8&line=38BDF8&point=38BDF8&area=true" alt="GitHub Activity Graph" /> -->
-<!---->
-<!-- --- -->
+### <font color="#38BDF8">📊 GitHub Activity Graph</font>
 
-### 🌐 Connect With Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mejares-jamesmichael&theme=github-compact&hide_border=true&bg_color=00000000&color=38BDF8&line=38BDF8&point=38BDF8&area=true" alt="GitHub Activity Graph" />
+
+---
+
+### <font color="#38BDF8">🌐 Connect With Me</font>
 
 | 📧 Email | 🔗 Linktree | 🖥️ Web Space |
 | :---: | :---: | :---: |
@@ -30,5 +47,8 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Sā+,+koko+kara+ga+hairaito+da!+🪶" alt="Closing" />
+<img src="assets/gotchard-gatchanko.gif" alt="Kamen Rider Gotchard" width="250" />
+
+<sub>Kamen Rider Gotchard • Gatchanko</sub>
+
 </div>

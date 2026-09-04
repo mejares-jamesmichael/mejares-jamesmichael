@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+James+Michael" alt="Greeting" />
 
 <div>
-  <img src="assets\gotchard-gatchanko.gif" alt="Kamen Raido Gotcha" width="250" />
+  <img src="assets/gotchard-gatchanko.gif" alt="Kamen Raido Gotcha" width="250" />
 
 My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT student from Polytechnic University of the Philippines - Taguig Campus. I am a huge tokusatsu fan, I like watching Kamen Rider, Super Sentai & Ultraman series
 
@@ -10,9 +10,9 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 
 ### 🛠️ Developer Profile
 
-| 💻 About Me                                                                                                                                                                                                                                                                                                                                                       | 📄 Featured Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Name:** James Michael C. Mejares (Kael) <br> **Role:** 3rd Year IT Student @ PUP-Taguig <br> **Experience:** Software Developer @ XOO \|  Arkray <br><br> 🎯 **Focus:** Linux, Cybersecurity, DevOps, & AI <br> ⚡ **Fun Fact:** I love customizing my terminal setup, check my dotfiles **[here](https://github.com/mejares-jamesmichael/windows-dotfiles)** <br> 🦖 **Interests:** Massive Tokusatsu fan (Kamen Rider, Super Sentai, Ultraman) | 🚀 **[ServeTrack](https://github.com/PUPT-Quantum-Leap/capstone-nlcom-volunteer-management-system)** - Capstone Volunteer Management System <br> 💰 **[iBudget](https://github.com/PUP-BSIT/project-appvengers)** - AI-powered smart finance app <br> 🐾 **[PawSight](https://github.com/mejares-jamesmichael/project-pawsight)** - Flutter pet utility app with AI <br> 🌐 **[devhivespace](https://github.com/PUP-BSIT/project-devhive)** - Cross-platform social media web app <br> 💾 **[Disk Cleaner](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI)** - PowerShell storage optimizer <br> 👁️ **[Sign Language to LLM](https://github.com/mejares-jamesmichael/sl-llm)** - Communicate to an LLM using sign language in real-time <br> 🏥 **[PDMHS Medical](https://github.com/DEVHIVE-PROJECT-S/devhive-infoman)** - Student Medical Record System |
+| 💻 About Me | 📄 Featured Projects |
+| :--- | :--- |
+| **Name:** James Michael C. Mejares (Kael) <br> **Role:** 3rd Year IT Student @ PUP-Taguig <br> **Experience:** Software Developer @ XOO \| Arkray <br><br> 🎯 **Focus:** Linux, Cybersecurity, DevOps, & AI <br> ⚡ **Fun Fact:** I love customizing my terminal setup, check my dotfiles **[here](https://github.com/mejares-jamesmichael/windows-dotfiles)** <br> 🦖 **Interests:** Massive Tokusatsu fan (Kamen Rider, Super Sentai, Ultraman) | 🚀 **[ServeTrack](https://github.com/PUPT-Quantum-Leap/capstone-nlcom-volunteer-management-system)** - Capstone Volunteer Management System <br> 💰 **[iBudget](https://github.com/PUP-BSIT/project-appvengers)** - AI-powered smart finance app <br> 🐾 **[PawSight](https://github.com/mejares-jamesmichael/project-pawsight)** - Flutter pet utility app with AI <br> 🌐 **[devhivespace](https://github.com/PUP-BSIT/project-devhive)** - Cross-platform social media web app <br> 💾 **[Disk Cleaner](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI)** - PowerShell storage optimizer <br> 👁️ **[Sign Language to LLM](https://github.com/mejares-jamesmichael/sl-llm)** - Communicate to an LLM using sign language in real-time <br> 🏥 **[PDMHS Medical](https://github.com/DEVHIVE-PROJECT-S/devhive-infoman)** - Student Medical Record System |
 
 ---
 
@@ -24,8 +24,8 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 
 ### 🌐 Connect With Me
 
-|                               📧 Email                                |                  🔗 Linktree                   |                🖥️ Web Space                 |
-| :-------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------: |
+| 📧 Email | 🔗 Linktree | 🖥️ Web Space |
+| :---: | :---: | :---: |
 | [jamesmichaelmejares@gmail.com](mailto:jamesmichaelmejares@gmail.com) | [linktr.ee/kaelvxd](https://linktr.ee/kaelvxd) | [kaelvxdev.space](https://kaelvxdev.space/) |
 
 <br>

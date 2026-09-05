@@ -1,12 +1,11 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+James+Michael" alt="Greeting" />
 
-<div>
-  <img src="assets/gotchard-gatchanko.gif" alt="Kamen Raido Gotcha" width="250" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=mejares-jamesmichael&theme=github-dark" />
+  <img src="https://neofetch-profile.vercel.app/api?username=mejares-jamesmichael&theme=github-light" alt="Neofetch profile card" />
+</picture>
 
-My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT student from Polytechnic University of the Philippines - Taguig Campus. I am a huge tokusatsu fan, I like watching Kamen Rider, Super Sentai & Ultraman series
-
-</div>
+---
 
 ### 🛠️ Developer Profile
 
@@ -30,5 +29,8 @@ My name is James Michael C. Mejares [or you can call me Kael], a 3rd year IT stu
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Sā+,+koko+kara+ga+hairaito+da!+🪶" alt="Closing" />
+<img src="assets/gotchard-gatchanko.gif" alt="Kamen Rider Gotchard" width="250" />
+
+<sub>Kamen Rider Gotchard • Gatchanko</sub>
+
 </div>

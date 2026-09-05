@@ -10,24 +10,17 @@
         { "key": "Name", "value": "James Michael C. Mejares (Kael)" },
         { "key": "Role", "value": " IT Graduate @ PUP-Taguig" },
         { "key": "Experience", "value": "Software Developer" },
-        { "key": "Location", "value": "{{location}}" },
         { "key" : "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Company", "value": "{{company}}" }
       ]
     },
     {
-      "title": "- Focus",
+      "title": "- Focus & Hobbies",
       "titleColor": { "text": "#38BDF8, #38BDF8", "line": "#38BDF8, #38BDF8" },
       "fields": [
         { "key": "Topics", "value": "Linux, Cybersecurity, DevOps" },
-        { "key": "Languages", "value": "{{languages}}" }
-      ]
-    },
-    {
-      "title": "- Hobbies",
-      "titleColor": { "text": "#38BDF8, #38BDF8", "line": "#38BDF8, #38BDF8" },
-      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
         { "key": "Hobbies.Series", "value": "Kamen Rider, Super Sentai, & Ultraman" },
         { "key": "Hobbies.Software", "value": "Linux Ricing, AI/ML, CLI's" },
         { "key": "Hobbies.Hardware", "value": "Keyboards & Cyberdeck" }
@@ -48,7 +41,6 @@
     "title": "- GitHub Stats",
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
-      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
       { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Pull Requests", "value": "{{prs}}" } }
     ]
   }

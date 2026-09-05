@@ -9,17 +9,19 @@
       "fields": [
         { "key": "Name", "value": "James Michael C. Mejares (Kael)" },
         { "key": "Role", "value": " IT Graduate @ PUP-Taguig" },
-        { "key": "Experience", "value": "Software Developer @ XOO | Arkray" },
+        { "key": "Experience", "value": "Software Developer" },
         { "key": "Location", "value": "{{location}}" },
-        { "key": "Uptime", "value": "{{uptime}}" }
+        { "key" : "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Company", "value": "{{company}}" }
       ]
     },
     {
       "title": "- Focus",
       "titleColor": { "text": "#38BDF8, #38BDF8", "line": "#38BDF8, #38BDF8" },
       "fields": [
-        { "key": "Core", "value": "Linux, Cybersecurity, DevOps" },
-        { "key": "Also", "value": "AI, Flutter, PowerShell" }
+        { "key": "Topics", "value": "Linux, Cybersecurity, DevOps" },
+        { "key": "Languages", "value": "{{languages}}" }
       ]
     },
     {
@@ -36,6 +38,7 @@
       "titleColor": { "text": "#38BDF8, #38BDF8", "line": "#38BDF8, #38BDF8" },
       "fields": [
         { "key": "Email", "value": "jamesmichaelmejares@gmail.com" },
+        { "key": "Cyberspace", "value": "kaelvxd" }
         { "key": "Linktree", "value": "https://linktr.ee/kaelvxd" },
         { "key": "Website", "value": "https://kaelvxdev.space" }
       ]

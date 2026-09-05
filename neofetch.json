@@ -8,8 +8,9 @@
       "titleColor": { "text": "#38BDF8, #38BDF8", "line": "#38BDF8, #38BDF8" },
       "fields": [
         { "key": "Name", "value": "James Michael C. Mejares (Kael)" },
-        { "key": "Role", "value": "3rd Year IT Student @ PUP-Taguig" },
+        { "key": "Role", "value": " IT Graduate @ PUP-Taguig" },
         { "key": "Experience", "value": "Software Developer @ XOO | Arkray" },
+        { "key": "Location", "value": "{{location}}" },
         { "key": "Uptime", "value": "{{uptime}}" }
       ]
     },
@@ -22,11 +23,12 @@
       ]
     },
     {
-      "title": "- Tokusatsu",
+      "title": "- Hobbies",
       "titleColor": { "text": "#38BDF8, #38BDF8", "line": "#38BDF8, #38BDF8" },
       "fields": [
-        { "key": "Watches", "value": "Kamen Rider, Super Sentai & Ultraman" },
-        { "key": "Henshin", "value": "Sā, koko kara ga hairaito da!" }
+        { "key": "Hobbies.Series", "value": "Kamen Rider, Super Sentai, & Ultraman" },
+        { "key": "Hobbies.Software", "value": "Linux Ricing, AI/ML, CLI's" },
+        { "key": "Hobbies.Hardware", "value": "Keyboards & Cyberdeck" }
       ]
     },
     {
@@ -35,7 +37,7 @@
       "fields": [
         { "key": "Email", "value": "jamesmichaelmejares@gmail.com" },
         { "key": "Linktree", "value": "https://linktr.ee/kaelvxd" },
-        { "key": "Web", "value": "https://kaelvxdev.space" }
+        { "key": "Website", "value": "https://kaelvxdev.space" }
       ]
     }
   ],
@@ -44,7 +46,7 @@
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
-      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } }
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Pull Requests", "value": "{{prs}}" } }
     ]
   }
 }

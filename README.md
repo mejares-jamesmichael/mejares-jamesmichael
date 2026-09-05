@@ -15,12 +15,6 @@
 
 ---
 
-<!-- ### 📊 GitHub Activity Graph -->
-<!---->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mejares-jamesmichael&theme=github-compact&hide_border=true&bg_color=00000000&color=38BDF8&line=38BDF8&point=38BDF8&area=true" alt="GitHub Activity Graph" /> -->
-<!---->
-<!-- --- -->
-
 ### 🌐 Connect With Me
 
 | 📧 Email | 🔗 Linktree | 🖥️ Web Space |

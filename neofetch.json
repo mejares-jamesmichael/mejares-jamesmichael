@@ -8,9 +8,9 @@
       "titleColor": { "text": "#38BDF8, #38BDF8", "line": "#38BDF8, #38BDF8" },
       "fields": [
         { "key": "Name", "value": "James Michael C. Mejares (Kael)" },
-        { "key": "Role", "value": " IT Graduate @ PUP-Taguig" },
+        { "key": "Role", "value": "IT Graduate @ PUP-Taguig" },
         { "key": "Experience", "value": "Software Developer" },
-        { "key" : "Created", "value": "{{created}}" },
+        { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Company", "value": "{{company}}" }
       ]
@@ -22,7 +22,7 @@
         { "key": "Topics", "value": "Linux, Cybersecurity, DevOps" },
         { "key": "Languages", "value": "{{languages}}" },
         { "key": "Hobbies.Series", "value": "Kamen Rider, Super Sentai, & Ultraman" },
-        { "key": "Hobbies.Software", "value": "Linux Ricing, AI/ML, CLI's" },
+        { "key": "Hobbies.Software", "value": "Linux Ricing, AI/ML, & CLI's" },
         { "key": "Hobbies.Hardware", "value": "Keyboards & Cyberdeck" }
       ]
     },
